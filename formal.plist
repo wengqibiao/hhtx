@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ims.10044.cn:8080/telecom/hhtxapp2.png</string>
+					<string>http://10.72.86.123:8886/hhtx-formal/hhtxapp2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://ims.10044.cn:8080/telecom/hhtxapp.png</string>
+					<string>http://10.72.86.123:8886/hhtx-formal/hhtxapp.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
