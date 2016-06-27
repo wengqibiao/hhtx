@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.72.86.123:8886/hhtx-test/appver/ios/haihang_xh.ipa</string>
+					<string>http://10.72.86.123:8886/appver/ios/haihang_trunk_debug.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
